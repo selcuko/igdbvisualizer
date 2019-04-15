@@ -1,0 +1,15 @@
+C:\Users\x1\source\repos\JSONVisualizer\bin\Debug\JSONVisualizer.exe.config
+C:\Users\x1\source\repos\JSONVisualizer\bin\Debug\JSONVisualizer.exe
+C:\Users\x1\source\repos\JSONVisualizer\bin\Debug\JSONVisualizer.pdb
+C:\Users\x1\source\repos\JSONVisualizer\obj\Debug\JSONVisualizer.csprojAssemblyReference.cache
+C:\Users\x1\source\repos\JSONVisualizer\obj\Debug\JSONVisualizer.Properties.Resources.resources
+C:\Users\x1\source\repos\JSONVisualizer\obj\Debug\JSONVisualizer.csproj.GenerateResource.cache
+C:\Users\x1\source\repos\JSONVisualizer\obj\Debug\JSONVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\x1\source\repos\JSONVisualizer\obj\Debug\JSONVisualizer.exe
+C:\Users\x1\source\repos\JSONVisualizer\obj\Debug\JSONVisualizer.pdb
+C:\Users\x1\source\repos\JSONVisualizer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\x1\source\repos\JSONVisualizer\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\x1\source\repos\JSONVisualizer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\x1\source\repos\JSONVisualizer\obj\Debug\JSONVisualizer.csproj.CopyComplete
+C:\Users\x1\source\repos\JSONVisualizer\obj\Debug\JSONVisualizer.MainForm.resources
+C:\Users\x1\source\repos\JSONVisualizer\bin\Debug\MaterialSkin.dll
